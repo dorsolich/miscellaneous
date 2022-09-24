@@ -1,4 +1,3 @@
-import pytest
 from dataclass_decorator.dataclass import InventoryTracker
 from dataclass_decorator.dataclass_decorator import InventoryItem
 
